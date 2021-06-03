@@ -14,5 +14,4 @@ This project was developed using:
 👤 <strong> Levi Araújo </strong>
 
 ## 📃 License
-
 [MIT](https://choosealicense.com/licenses/mit/)
