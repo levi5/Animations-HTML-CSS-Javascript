@@ -1,6 +1,6 @@
 # Social Media Animation
 
-<div style="width:600px; height:500px; margin:0;"><img src="./.github/assets/animation.gif"></div>
+<div style="width:500px; height:500px; margin:0;"><img src="./.github/assets/animation.gif"></div>
 
 ## :robot: Technology
 
