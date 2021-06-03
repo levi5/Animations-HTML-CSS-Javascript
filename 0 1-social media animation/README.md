@@ -12,3 +12,7 @@ This project was developed using:
 ## Author
 
 👤 <strong> Levi Araújo </strong>
+
+## 📃 License
+
+[MIT](https://choosealicense.com/licenses/mit/)
