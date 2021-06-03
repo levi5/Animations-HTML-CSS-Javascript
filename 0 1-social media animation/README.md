@@ -18,6 +18,6 @@ This project was developed using:
 ---
 
 ## :pencil: LICENSE
-[LICENSE][MIT](https://choosealicense.com/licenses/mit/)
+[MIT](https://choosealicense.com/licenses/mit/)
 
 ---
