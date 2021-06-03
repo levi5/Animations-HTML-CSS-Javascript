@@ -9,10 +9,15 @@ This project was developed using:
 + HTML & CSS
 + JavaScript
 
+---
+
 ## Author
 
 👤 <strong> Levi Araújo </strong>
 
-## 📃License
- [MIT](https://choosealicense.com/licenses/mit/)
+---
+
+## :pencil: LICENSE
+[LICENSE][MIT](https://choosealicense.com/licenses/mit/)
+
 ---
