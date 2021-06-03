@@ -1,1 +1,1 @@
-# HTML, CSS and Javascript animations
+# HTML, CSS and Javascript Animations
